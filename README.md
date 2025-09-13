@@ -1,6 +1,6 @@
 # SendNotifications_2_GamePlayers
 
-One Event Grid Topic
+Event Grid One Topic
 
 Multiple Azure Functions as event subscripters
 
