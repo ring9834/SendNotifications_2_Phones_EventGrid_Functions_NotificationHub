@@ -5,10 +5,13 @@ This code is helpful for real practice projects and provide one of the ways for 
 
 ## Simple Explanations about used Techniques
 Event Grid One Topic
+
 In this code, one Event Grid topic is suggested to create. You can also create multiple topics if needed.
 
 Multiple Azure Functions as event subscribers
+
 Here, several Azure functions are used as subscribers and subscribed to the only one event topic.
 
 RESTful API as Event Publisher
+
 We used web APIs to publish events to the topic instead of using Azure Functions.
